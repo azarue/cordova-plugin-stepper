@@ -17,7 +17,7 @@ cordova plugin add @felicienfrancois/cordova-plugin-stepper
 #### Latest version from GitHub
 
 ```
-cordova plugin add https://github.com/@felicienfrancois/cordova-plugin-stepper
+cordova plugin add https://github.com/azarue/cordova-plugin-stepper
 ```
 ## Usage
 
